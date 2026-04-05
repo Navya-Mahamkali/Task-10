@@ -82,4 +82,4 @@ pip install numpy matplotlib scikit-learn
 ---
 
 ## 👨‍💻 Author
-Your Navya Mahamkali
+Navya Mahamkali
